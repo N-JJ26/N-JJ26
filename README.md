@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @N-JJ26
 - 👀 I’m interested in First Robotics
-- 🌱 I’m currently learning java, javascript, and html
+- 🌱 I’m currently learning java, javascript, html, and css
