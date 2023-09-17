@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(42, 42, 42);
+    display: grid;
+    grid: 30% 30% 30%;
+}
+
+.filler {
+    display: grid;
+}
+
+.titleContainer {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    display: grid;
+    justify-content: center;
+    background-color: rgb(80, 80, 80);
+    border-radius: 15px;
+    border-style: solid;
+}
+
+.mainBody {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    font-size: 22.5px;
+    background-color: rgb(80, 80, 80);
+    border-radius: 15px;
+    border-style: solid;
+}
